@@ -1,0 +1,5 @@
+model,auc_from_oof,auc_from_summary,abs_diff,within_tol
+Logistic Regression,0.522285,0.522,0.000285,True
+Random Forest,0.649404,0.649,0.000404,True
+SVM,0.443189,0.443,0.000189,True
+XGBoost,0.630885,0.631,0.000115,True

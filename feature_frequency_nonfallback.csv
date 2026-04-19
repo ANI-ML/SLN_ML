@@ -1,0 +1,7 @@
+feature,n_nonfallback_folds_selected,selection_freq_nonfallback
+original_glszm_LowGrayLevelZoneEmphasis,35,1.0
+original_glszm_SmallAreaLowGrayLevelEmphasis,35,1.0
+original_glcm_MCC,34,0.971
+original_glszm_HighGrayLevelZoneEmphasis,32,0.914
+original_glcm_Imc1,2,0.057
+original_glszm_SmallAreaHighGrayLevelEmphasis,2,0.057

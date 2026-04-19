@@ -1,0 +1,7 @@
+metric,value
+total_folds,49.0
+fallback_folds,14.0
+nonfallback_folds,35.0
+fallback_fraction_pct,28.6
+mean_n_selected_fallback,10.0
+mean_n_selected_strict,4.0

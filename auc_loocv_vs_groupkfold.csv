@@ -1,0 +1,5 @@
+model,n_folds,auc_mean,auc_median,auc_std,auc_p2.5,auc_p97.5,fallback_rate,loocv_auc,loocv_ci_low,loocv_ci_high
+Random Forest,99,0.67,0.702,0.194,0.293,0.964,0.717,0.649,0.474,0.831
+XGBoost,99,0.642,0.618,0.182,0.306,0.965,0.717,0.631,0.501,0.772
+Logistic Regression,99,0.56,0.597,0.216,0.188,0.963,0.717,0.522,0.322,0.746
+SVM,99,0.544,0.549,0.184,0.174,0.952,0.717,0.443,0.265,0.678

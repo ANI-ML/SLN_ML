@@ -1,0 +1,561 @@
+model,fold_idx,test_pid,feature,importance,importance_type
+Random Forest,0,650425,original_glszm_LowGrayLevelZoneEmphasis,0.1016910719861327,impurity
+Random Forest,0,650425,original_glszm_SmallAreaLowGrayLevelEmphasis,0.13817808524104883,impurity
+Random Forest,0,650425,original_glcm_MCC,0.15542497719957135,impurity
+Random Forest,0,650425,original_glszm_HighGrayLevelZoneEmphasis,0.13000304024495962,impurity
+Random Forest,0,650425,original_glcm_Imc1,0.08639061575914543,impurity
+Random Forest,0,650425,original_glszm_SmallAreaHighGrayLevelEmphasis,0.07654674832559798,impurity
+Random Forest,0,650425,original_firstorder_Minimum,0.025653957112328537,impurity
+Random Forest,0,650425,original_shape_Maximum2DDiameterSlice,0.23235308469166793,impurity
+Random Forest,0,650425,original_gldm_LowGrayLevelEmphasis,0.015160828659995516,impurity
+Random Forest,0,650425,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.0385975907795522,impurity
+XGBoost,0,650425,original_glszm_LowGrayLevelZoneEmphasis,4.109390735626221,gain
+XGBoost,0,650425,original_glszm_SmallAreaLowGrayLevelEmphasis,9.074291229248047,gain
+XGBoost,0,650425,original_glcm_MCC,8.891046524047852,gain
+XGBoost,0,650425,original_glszm_HighGrayLevelZoneEmphasis,20.405672073364258,gain
+XGBoost,0,650425,original_glcm_Imc1,6.254794597625732,gain
+XGBoost,0,650425,original_glszm_SmallAreaHighGrayLevelEmphasis,3.2115163803100586,gain
+XGBoost,0,650425,original_firstorder_Minimum,5.520178318023682,gain
+XGBoost,0,650425,original_shape_Maximum2DDiameterSlice,9.040492057800293,gain
+XGBoost,0,650425,original_gldm_LowGrayLevelEmphasis,2.346456527709961,gain
+XGBoost,0,650425,original_gldm_SmallDependenceLowGrayLevelEmphasis,3.5205397605895996,gain
+Random Forest,1,654045,original_glcm_MCC,0.1677183287797213,impurity
+Random Forest,1,654045,original_glszm_HighGrayLevelZoneEmphasis,0.2051312214725674,impurity
+Random Forest,1,654045,original_glszm_LowGrayLevelZoneEmphasis,0.3444533154428111,impurity
+Random Forest,1,654045,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2826971343049001,impurity
+XGBoost,1,654045,original_glcm_MCC,5.308631896972656,gain
+XGBoost,1,654045,original_glszm_HighGrayLevelZoneEmphasis,3.667664051055908,gain
+XGBoost,1,654045,original_glszm_LowGrayLevelZoneEmphasis,12.424101829528809,gain
+XGBoost,1,654045,original_glszm_SmallAreaLowGrayLevelEmphasis,8.099884986877441,gain
+Random Forest,2,645592,original_glcm_MCC,0.19593035093383382,impurity
+Random Forest,2,645592,original_glszm_HighGrayLevelZoneEmphasis,0.19830958157210263,impurity
+Random Forest,2,645592,original_glszm_LowGrayLevelZoneEmphasis,0.34283759128159796,impurity
+Random Forest,2,645592,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2629224762124655,impurity
+XGBoost,2,645592,original_glcm_MCC,5.129095554351807,gain
+XGBoost,2,645592,original_glszm_HighGrayLevelZoneEmphasis,3.62749981880188,gain
+XGBoost,2,645592,original_glszm_LowGrayLevelZoneEmphasis,13.863211631774902,gain
+XGBoost,2,645592,original_glszm_SmallAreaLowGrayLevelEmphasis,7.457336902618408,gain
+Random Forest,3,641688,original_glcm_MCC,0.1818202182491171,impurity
+Random Forest,3,641688,original_glszm_HighGrayLevelZoneEmphasis,0.21531918338711853,impurity
+Random Forest,3,641688,original_glszm_LowGrayLevelZoneEmphasis,0.35120411656542927,impurity
+Random Forest,3,641688,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2516564817983351,impurity
+XGBoost,3,641688,original_glcm_MCC,5.023643970489502,gain
+XGBoost,3,641688,original_glszm_HighGrayLevelZoneEmphasis,4.012022018432617,gain
+XGBoost,3,641688,original_glszm_LowGrayLevelZoneEmphasis,13.173141479492188,gain
+XGBoost,3,641688,original_glszm_SmallAreaLowGrayLevelEmphasis,7.785236835479736,gain
+Random Forest,4,256069,original_glcm_MCC,0.3023670117595426,impurity
+Random Forest,4,256069,original_glszm_LowGrayLevelZoneEmphasis,0.3501991058473338,impurity
+Random Forest,4,256069,original_glszm_SmallAreaLowGrayLevelEmphasis,0.3474338823931235,impurity
+XGBoost,4,256069,original_glcm_MCC,5.0045928955078125,gain
+XGBoost,4,256069,original_glszm_LowGrayLevelZoneEmphasis,12.087199211120605,gain
+XGBoost,4,256069,original_glszm_SmallAreaLowGrayLevelEmphasis,6.707523345947266,gain
+Random Forest,5,656637,original_glcm_MCC,0.176448610261787,impurity
+Random Forest,5,656637,original_glszm_HighGrayLevelZoneEmphasis,0.21427560845483362,impurity
+Random Forest,5,656637,original_glszm_LowGrayLevelZoneEmphasis,0.34504376656832103,impurity
+Random Forest,5,656637,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2642320147150583,impurity
+XGBoost,5,656637,original_glcm_MCC,4.933347225189209,gain
+XGBoost,5,656637,original_glszm_HighGrayLevelZoneEmphasis,3.8763091564178467,gain
+XGBoost,5,656637,original_glszm_LowGrayLevelZoneEmphasis,13.855423927307129,gain
+XGBoost,5,656637,original_glszm_SmallAreaLowGrayLevelEmphasis,7.347686767578125,gain
+Random Forest,6,660394,original_glcm_MCC,0.16653944514838656,impurity
+Random Forest,6,660394,original_glszm_HighGrayLevelZoneEmphasis,0.2246284943812895,impurity
+Random Forest,6,660394,original_glszm_LowGrayLevelZoneEmphasis,0.36091586532529996,impurity
+Random Forest,6,660394,original_glszm_SmallAreaLowGrayLevelEmphasis,0.247916195145024,impurity
+XGBoost,6,660394,original_glcm_MCC,5.162789344787598,gain
+XGBoost,6,660394,original_glszm_HighGrayLevelZoneEmphasis,3.6107141971588135,gain
+XGBoost,6,660394,original_glszm_LowGrayLevelZoneEmphasis,13.500303268432617,gain
+XGBoost,6,660394,original_glszm_SmallAreaLowGrayLevelEmphasis,7.240743160247803,gain
+Random Forest,7,660291,original_glcm_MCC,0.16786773515013223,impurity
+Random Forest,7,660291,original_glszm_HighGrayLevelZoneEmphasis,0.22243508112575625,impurity
+Random Forest,7,660291,original_glszm_LowGrayLevelZoneEmphasis,0.35742327379481414,impurity
+Random Forest,7,660291,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2522739099292974,impurity
+XGBoost,7,660291,original_glcm_MCC,4.713411331176758,gain
+XGBoost,7,660291,original_glszm_HighGrayLevelZoneEmphasis,3.426832675933838,gain
+XGBoost,7,660291,original_glszm_LowGrayLevelZoneEmphasis,12.21199893951416,gain
+XGBoost,7,660291,original_glszm_SmallAreaLowGrayLevelEmphasis,7.875314235687256,gain
+Random Forest,8,661840,original_glszm_SmallAreaLowGrayLevelEmphasis,0.14193843501987508,impurity
+Random Forest,8,661840,original_glszm_LowGrayLevelZoneEmphasis,0.09997592587075885,impurity
+Random Forest,8,661840,original_glszm_HighGrayLevelZoneEmphasis,0.15349340614984217,impurity
+Random Forest,8,661840,original_glcm_MCC,0.1427978160427358,impurity
+Random Forest,8,661840,original_glcm_Imc1,0.08277450587663505,impurity
+Random Forest,8,661840,original_glszm_SmallAreaHighGrayLevelEmphasis,0.06437882178055061,impurity
+Random Forest,8,661840,original_gldm_LowGrayLevelEmphasis,0.009825202048559538,impurity
+Random Forest,8,661840,original_shape_Maximum2DDiameterSlice,0.2113678047516282,impurity
+Random Forest,8,661840,original_firstorder_Energy,0.059548123554616327,impurity
+Random Forest,8,661840,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.03389995890479837,impurity
+XGBoost,8,661840,original_glszm_SmallAreaLowGrayLevelEmphasis,8.45719051361084,gain
+XGBoost,8,661840,original_glszm_LowGrayLevelZoneEmphasis,4.241274833679199,gain
+XGBoost,8,661840,original_glszm_HighGrayLevelZoneEmphasis,18.496103286743164,gain
+XGBoost,8,661840,original_glcm_MCC,10.341856956481934,gain
+XGBoost,8,661840,original_glcm_Imc1,5.406054496765137,gain
+XGBoost,8,661840,original_glszm_SmallAreaHighGrayLevelEmphasis,3.127139091491699,gain
+XGBoost,8,661840,original_gldm_LowGrayLevelEmphasis,0.6770962476730347,gain
+XGBoost,8,661840,original_shape_Maximum2DDiameterSlice,9.465171813964844,gain
+XGBoost,8,661840,original_firstorder_Energy,6.7954840660095215,gain
+XGBoost,8,661840,original_gldm_SmallDependenceLowGrayLevelEmphasis,3.883486747741699,gain
+Random Forest,9,662134,original_glcm_MCC,0.22178286353506993,impurity
+Random Forest,9,662134,original_glszm_SmallAreaLowGrayLevelEmphasis,0.17966076759248215,impurity
+Random Forest,9,662134,original_glszm_LowGrayLevelZoneEmphasis,0.12388871315517508,impurity
+Random Forest,9,662134,original_glszm_HighGrayLevelZoneEmphasis,0.062292097552988916,impurity
+Random Forest,9,662134,original_glcm_Imc1,0.15532956928853042,impurity
+Random Forest,9,662134,original_glszm_SmallAreaHighGrayLevelEmphasis,0.05342890155135719,impurity
+Random Forest,9,662134,original_firstorder_Energy,0.09165968674671782,impurity
+Random Forest,9,662134,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.04107387985190522,impurity
+Random Forest,9,662134,original_glrlm_RunEntropy,0.029753454691729027,impurity
+Random Forest,9,662134,original_firstorder_Minimum,0.04113006603404418,impurity
+XGBoost,9,662134,original_glcm_MCC,14.504460334777832,gain
+XGBoost,9,662134,original_glszm_SmallAreaLowGrayLevelEmphasis,10.618000030517578,gain
+XGBoost,9,662134,original_glszm_LowGrayLevelZoneEmphasis,4.6407623291015625,gain
+XGBoost,9,662134,original_glszm_HighGrayLevelZoneEmphasis,3.3005104064941406,gain
+XGBoost,9,662134,original_glcm_Imc1,3.8569865226745605,gain
+XGBoost,9,662134,original_glszm_SmallAreaHighGrayLevelEmphasis,5.643237113952637,gain
+XGBoost,9,662134,original_firstorder_Energy,5.489482879638672,gain
+XGBoost,9,662134,original_gldm_SmallDependenceLowGrayLevelEmphasis,6.049652099609375,gain
+XGBoost,9,662134,original_glrlm_RunEntropy,2.4188389778137207,gain
+XGBoost,9,662134,original_firstorder_Minimum,3.4866466522216797,gain
+Random Forest,10,662249,original_glcm_MCC,0.16472134944240127,impurity
+Random Forest,10,662249,original_glszm_HighGrayLevelZoneEmphasis,0.18049678360970434,impurity
+Random Forest,10,662249,original_glszm_LowGrayLevelZoneEmphasis,0.39552179165825946,impurity
+Random Forest,10,662249,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2592600752896348,impurity
+XGBoost,10,662249,original_glcm_MCC,5.163995265960693,gain
+XGBoost,10,662249,original_glszm_HighGrayLevelZoneEmphasis,2.788935661315918,gain
+XGBoost,10,662249,original_glszm_LowGrayLevelZoneEmphasis,12.164794921875,gain
+XGBoost,10,662249,original_glszm_SmallAreaLowGrayLevelEmphasis,8.166925430297852,gain
+Random Forest,11,622732,original_glcm_MCC,0.17349268951377567,impurity
+Random Forest,11,622732,original_glszm_HighGrayLevelZoneEmphasis,0.19963312613452197,impurity
+Random Forest,11,622732,original_glszm_LowGrayLevelZoneEmphasis,0.3671076607632637,impurity
+Random Forest,11,622732,original_glszm_SmallAreaLowGrayLevelEmphasis,0.25976652358843877,impurity
+XGBoost,11,622732,original_glcm_MCC,4.872395038604736,gain
+XGBoost,11,622732,original_glszm_HighGrayLevelZoneEmphasis,4.117031574249268,gain
+XGBoost,11,622732,original_glszm_LowGrayLevelZoneEmphasis,13.459816932678223,gain
+XGBoost,11,622732,original_glszm_SmallAreaLowGrayLevelEmphasis,8.174147605895996,gain
+Random Forest,12,622814,original_glcm_MCC,0.1693538960682863,impurity
+Random Forest,12,622814,original_glszm_HighGrayLevelZoneEmphasis,0.20653536841541567,impurity
+Random Forest,12,622814,original_glszm_LowGrayLevelZoneEmphasis,0.370792790872217,impurity
+Random Forest,12,622814,original_glszm_SmallAreaLowGrayLevelEmphasis,0.25331794464408103,impurity
+XGBoost,12,622814,original_glcm_MCC,4.349107265472412,gain
+XGBoost,12,622814,original_glszm_HighGrayLevelZoneEmphasis,3.9548585414886475,gain
+XGBoost,12,622814,original_glszm_LowGrayLevelZoneEmphasis,15.408681869506836,gain
+XGBoost,12,622814,original_glszm_SmallAreaLowGrayLevelEmphasis,9.02568531036377,gain
+Random Forest,13,635209,original_glcm_MCC,0.19650899551757614,impurity
+Random Forest,13,635209,original_glszm_HighGrayLevelZoneEmphasis,0.19507494637394615,impurity
+Random Forest,13,635209,original_glszm_LowGrayLevelZoneEmphasis,0.3484557285343118,impurity
+Random Forest,13,635209,original_glszm_SmallAreaLowGrayLevelEmphasis,0.259960329574166,impurity
+XGBoost,13,635209,original_glcm_MCC,5.368156909942627,gain
+XGBoost,13,635209,original_glszm_HighGrayLevelZoneEmphasis,3.5989110469818115,gain
+XGBoost,13,635209,original_glszm_LowGrayLevelZoneEmphasis,14.145618438720703,gain
+XGBoost,13,635209,original_glszm_SmallAreaLowGrayLevelEmphasis,7.2657470703125,gain
+Random Forest,14,669720,original_glcm_MCC,0.17932649957793134,impurity
+Random Forest,14,669720,original_glszm_HighGrayLevelZoneEmphasis,0.19097496958742308,impurity
+Random Forest,14,669720,original_glszm_LowGrayLevelZoneEmphasis,0.3713492000600206,impurity
+Random Forest,14,669720,original_glszm_SmallAreaLowGrayLevelEmphasis,0.258349330774625,impurity
+XGBoost,14,669720,original_glcm_MCC,4.9575042724609375,gain
+XGBoost,14,669720,original_glszm_HighGrayLevelZoneEmphasis,3.7839391231536865,gain
+XGBoost,14,669720,original_glszm_LowGrayLevelZoneEmphasis,12.965692520141602,gain
+XGBoost,14,669720,original_glszm_SmallAreaLowGrayLevelEmphasis,8.111501693725586,gain
+Random Forest,15,670489,original_glcm_MCC,0.18276866458579213,impurity
+Random Forest,15,670489,original_glszm_HighGrayLevelZoneEmphasis,0.20277341626322015,impurity
+Random Forest,15,670489,original_glszm_LowGrayLevelZoneEmphasis,0.34182216054874354,impurity
+Random Forest,15,670489,original_glszm_SmallAreaLowGrayLevelEmphasis,0.27263575860224404,impurity
+XGBoost,15,670489,original_glcm_MCC,5.42754602432251,gain
+XGBoost,15,670489,original_glszm_HighGrayLevelZoneEmphasis,4.099679470062256,gain
+XGBoost,15,670489,original_glszm_LowGrayLevelZoneEmphasis,12.33718204498291,gain
+XGBoost,15,670489,original_glszm_SmallAreaLowGrayLevelEmphasis,8.055669784545898,gain
+Random Forest,16,670239,original_glcm_MCC,0.17664844458803694,impurity
+Random Forest,16,670239,original_glszm_HighGrayLevelZoneEmphasis,0.22853673502193955,impurity
+Random Forest,16,670239,original_glszm_LowGrayLevelZoneEmphasis,0.334322243865947,impurity
+Random Forest,16,670239,original_glszm_SmallAreaLowGrayLevelEmphasis,0.26049257652407665,impurity
+XGBoost,16,670239,original_glcm_MCC,5.468478202819824,gain
+XGBoost,16,670239,original_glszm_HighGrayLevelZoneEmphasis,4.045490741729736,gain
+XGBoost,16,670239,original_glszm_LowGrayLevelZoneEmphasis,13.314606666564941,gain
+XGBoost,16,670239,original_glszm_SmallAreaLowGrayLevelEmphasis,7.5584330558776855,gain
+Random Forest,17,665806,original_glszm_LowGrayLevelZoneEmphasis,0.10667795540374071,impurity
+Random Forest,17,665806,original_glszm_SmallAreaLowGrayLevelEmphasis,0.11851422838687313,impurity
+Random Forest,17,665806,original_glszm_HighGrayLevelZoneEmphasis,0.15500796062578628,impurity
+Random Forest,17,665806,original_glcm_MCC,0.13090518260942682,impurity
+Random Forest,17,665806,original_glcm_Imc1,0.09765885481484837,impurity
+Random Forest,17,665806,original_glszm_SmallAreaHighGrayLevelEmphasis,0.0670479178581612,impurity
+Random Forest,17,665806,original_gldm_LowGrayLevelEmphasis,0.01675274292704315,impurity
+Random Forest,17,665806,original_shape_Maximum2DDiameterSlice,0.21032388433586754,impurity
+Random Forest,17,665806,original_firstorder_Energy,0.06521378754249586,impurity
+Random Forest,17,665806,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.03189748549575688,impurity
+XGBoost,17,665806,original_glszm_LowGrayLevelZoneEmphasis,4.76329231262207,gain
+XGBoost,17,665806,original_glszm_SmallAreaLowGrayLevelEmphasis,8.160637855529785,gain
+XGBoost,17,665806,original_glszm_HighGrayLevelZoneEmphasis,18.3712215423584,gain
+XGBoost,17,665806,original_glcm_MCC,9.313204765319824,gain
+XGBoost,17,665806,original_glcm_Imc1,4.651986598968506,gain
+XGBoost,17,665806,original_glszm_SmallAreaHighGrayLevelEmphasis,2.9518585205078125,gain
+XGBoost,17,665806,original_gldm_LowGrayLevelEmphasis,0.9831697344779968,gain
+XGBoost,17,665806,original_shape_Maximum2DDiameterSlice,9.785749435424805,gain
+XGBoost,17,665806,original_firstorder_Energy,7.161442756652832,gain
+XGBoost,17,665806,original_gldm_SmallDependenceLowGrayLevelEmphasis,2.855557441711426,gain
+Random Forest,18,602120,original_glcm_MCC,0.18861052154811625,impurity
+Random Forest,18,602120,original_glszm_HighGrayLevelZoneEmphasis,0.19589571076683684,impurity
+Random Forest,18,602120,original_glszm_LowGrayLevelZoneEmphasis,0.35841091977078854,impurity
+Random Forest,18,602120,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2570828479142583,impurity
+XGBoost,18,602120,original_glcm_MCC,5.079672813415527,gain
+XGBoost,18,602120,original_glszm_HighGrayLevelZoneEmphasis,3.8897147178649902,gain
+XGBoost,18,602120,original_glszm_LowGrayLevelZoneEmphasis,13.267768859863281,gain
+XGBoost,18,602120,original_glszm_SmallAreaLowGrayLevelEmphasis,8.198332786560059,gain
+Random Forest,19,637045,original_glcm_MCC,0.19360886128017954,impurity
+Random Forest,19,637045,original_glszm_HighGrayLevelZoneEmphasis,0.19536290526594566,impurity
+Random Forest,19,637045,original_glszm_LowGrayLevelZoneEmphasis,0.36595538886587353,impurity
+Random Forest,19,637045,original_glszm_SmallAreaLowGrayLevelEmphasis,0.24507284458800127,impurity
+XGBoost,19,637045,original_glcm_MCC,5.125148296356201,gain
+XGBoost,19,637045,original_glszm_HighGrayLevelZoneEmphasis,3.828216552734375,gain
+XGBoost,19,637045,original_glszm_LowGrayLevelZoneEmphasis,12.95452880859375,gain
+XGBoost,19,637045,original_glszm_SmallAreaLowGrayLevelEmphasis,7.792211055755615,gain
+Random Forest,20,637263,original_glcm_MCC,0.16674697267522098,impurity
+Random Forest,20,637263,original_glszm_HighGrayLevelZoneEmphasis,0.20294586263506362,impurity
+Random Forest,20,637263,original_glszm_LowGrayLevelZoneEmphasis,0.37033117242509944,impurity
+Random Forest,20,637263,original_glszm_SmallAreaLowGrayLevelEmphasis,0.25997599226461593,impurity
+XGBoost,20,637263,original_glcm_MCC,4.895914554595947,gain
+XGBoost,20,637263,original_glszm_HighGrayLevelZoneEmphasis,3.7484583854675293,gain
+XGBoost,20,637263,original_glszm_LowGrayLevelZoneEmphasis,13.18807601928711,gain
+XGBoost,20,637263,original_glszm_SmallAreaLowGrayLevelEmphasis,8.033673286437988,gain
+Random Forest,21,648945,original_glszm_LowGrayLevelZoneEmphasis,0.09003305692986496,impurity
+Random Forest,21,648945,original_glszm_SmallAreaLowGrayLevelEmphasis,0.13588040703912324,impurity
+Random Forest,21,648945,original_glszm_HighGrayLevelZoneEmphasis,0.1583448116661289,impurity
+Random Forest,21,648945,original_glcm_MCC,0.1451188445003155,impurity
+Random Forest,21,648945,original_glcm_Imc1,0.08953279900619451,impurity
+Random Forest,21,648945,original_glszm_SmallAreaHighGrayLevelEmphasis,0.06684049194057474,impurity
+Random Forest,21,648945,original_gldm_LowGrayLevelEmphasis,0.013921371895289381,impurity
+Random Forest,21,648945,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.033354929486656755,impurity
+Random Forest,21,648945,original_shape_Maximum2DDiameterSlice,0.20658606008203914,impurity
+Random Forest,21,648945,original_firstorder_Energy,0.06038722745381286,impurity
+XGBoost,21,648945,original_glszm_LowGrayLevelZoneEmphasis,4.934582233428955,gain
+XGBoost,21,648945,original_glszm_SmallAreaLowGrayLevelEmphasis,8.324300765991211,gain
+XGBoost,21,648945,original_glszm_HighGrayLevelZoneEmphasis,15.360428810119629,gain
+XGBoost,21,648945,original_glcm_MCC,9.488385200500488,gain
+XGBoost,21,648945,original_glcm_Imc1,5.231808185577393,gain
+XGBoost,21,648945,original_glszm_SmallAreaHighGrayLevelEmphasis,3.482959747314453,gain
+XGBoost,21,648945,original_gldm_LowGrayLevelEmphasis,1.853190302848816,gain
+XGBoost,21,648945,original_gldm_SmallDependenceLowGrayLevelEmphasis,3.26754093170166,gain
+XGBoost,21,648945,original_shape_Maximum2DDiameterSlice,9.846481323242188,gain
+XGBoost,21,648945,original_firstorder_Energy,7.462702751159668,gain
+Random Forest,22,649071,original_shape_Flatness,0.16471318370055657,impurity
+Random Forest,22,649071,original_glcm_MCC,0.11152611124781114,impurity
+Random Forest,22,649071,original_glcm_Imc1,0.19862794799663105,impurity
+Random Forest,22,649071,original_gldm_LowGrayLevelEmphasis,0.03527668948457343,impurity
+Random Forest,22,649071,original_glszm_LowGrayLevelZoneEmphasis,0.05365149038437283,impurity
+Random Forest,22,649071,original_shape_Elongation,0.1707040906041216,impurity
+Random Forest,22,649071,original_glszm_SmallAreaLowGrayLevelEmphasis,0.08581029361413817,impurity
+Random Forest,22,649071,original_glrlm_LongRunHighGrayLevelEmphasis,0.06198040299665269,impurity
+Random Forest,22,649071,original_shape_Maximum2DDiameterRow,0.07907846691157833,impurity
+Random Forest,22,649071,original_firstorder_Kurtosis,0.038631323059564335,impurity
+XGBoost,22,649071,original_shape_Flatness,17.203205108642578,gain
+XGBoost,22,649071,original_glcm_MCC,5.3972578048706055,gain
+XGBoost,22,649071,original_glcm_Imc1,23.338415145874023,gain
+XGBoost,22,649071,original_gldm_LowGrayLevelEmphasis,2.7579386234283447,gain
+XGBoost,22,649071,original_glszm_LowGrayLevelZoneEmphasis,4.037419319152832,gain
+XGBoost,22,649071,original_shape_Elongation,10.917023658752441,gain
+XGBoost,22,649071,original_glszm_SmallAreaLowGrayLevelEmphasis,8.26317024230957,gain
+XGBoost,22,649071,original_glrlm_LongRunHighGrayLevelEmphasis,4.6588897705078125,gain
+XGBoost,22,649071,original_shape_Maximum2DDiameterRow,6.076210975646973,gain
+XGBoost,22,649071,original_firstorder_Kurtosis,5.429205417633057,gain
+Random Forest,23,665502,original_glszm_LowGrayLevelZoneEmphasis,0.09425354962576596,impurity
+Random Forest,23,665502,original_glszm_SmallAreaLowGrayLevelEmphasis,0.129638712581468,impurity
+Random Forest,23,665502,original_glszm_HighGrayLevelZoneEmphasis,0.16263009840656323,impurity
+Random Forest,23,665502,original_glcm_MCC,0.1290711908648764,impurity
+Random Forest,23,665502,original_glszm_SmallAreaHighGrayLevelEmphasis,0.07174054265161989,impurity
+Random Forest,23,665502,original_glcm_Imc1,0.07991270905593745,impurity
+Random Forest,23,665502,original_shape_Maximum2DDiameterSlice,0.219105239413234,impurity
+Random Forest,23,665502,original_gldm_LowGrayLevelEmphasis,0.01862476415812614,impurity
+Random Forest,23,665502,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.023123531853294018,impurity
+Random Forest,23,665502,original_firstorder_Energy,0.07189966138911497,impurity
+XGBoost,23,665502,original_glszm_LowGrayLevelZoneEmphasis,3.954404354095459,gain
+XGBoost,23,665502,original_glszm_SmallAreaLowGrayLevelEmphasis,8.148913383483887,gain
+XGBoost,23,665502,original_glszm_HighGrayLevelZoneEmphasis,16.35598373413086,gain
+XGBoost,23,665502,original_glcm_MCC,10.143487930297852,gain
+XGBoost,23,665502,original_glszm_SmallAreaHighGrayLevelEmphasis,3.6619322299957275,gain
+XGBoost,23,665502,original_glcm_Imc1,3.7413330078125,gain
+XGBoost,23,665502,original_shape_Maximum2DDiameterSlice,9.69409465789795,gain
+XGBoost,23,665502,original_gldm_LowGrayLevelEmphasis,0.14120547473430634,gain
+XGBoost,23,665502,original_gldm_SmallDependenceLowGrayLevelEmphasis,4.402560234069824,gain
+XGBoost,23,665502,original_firstorder_Energy,6.267490386962891,gain
+Random Forest,24,667223,original_glcm_MCC,0.1790620997693665,impurity
+Random Forest,24,667223,original_glszm_HighGrayLevelZoneEmphasis,0.19918457031914638,impurity
+Random Forest,24,667223,original_glszm_LowGrayLevelZoneEmphasis,0.36960723272256835,impurity
+Random Forest,24,667223,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2521460971889187,impurity
+XGBoost,24,667223,original_glcm_MCC,4.925508499145508,gain
+XGBoost,24,667223,original_glszm_HighGrayLevelZoneEmphasis,3.8339312076568604,gain
+XGBoost,24,667223,original_glszm_LowGrayLevelZoneEmphasis,13.154877662658691,gain
+XGBoost,24,667223,original_glszm_SmallAreaLowGrayLevelEmphasis,7.080179691314697,gain
+Random Forest,25,660496,original_glcm_MCC,0.17153580019475875,impurity
+Random Forest,25,660496,original_glszm_LowGrayLevelZoneEmphasis,0.12440972922252987,impurity
+Random Forest,25,660496,original_glszm_SmallAreaLowGrayLevelEmphasis,0.15708313923799333,impurity
+Random Forest,25,660496,original_glszm_HighGrayLevelZoneEmphasis,0.09469470570997876,impurity
+Random Forest,25,660496,original_glcm_Imc1,0.1060576629807499,impurity
+Random Forest,25,660496,original_shape_Maximum2DDiameterRow,0.11945062190376962,impurity
+Random Forest,25,660496,original_ngtdm_Complexity,0.09562281602631012,impurity
+Random Forest,25,660496,original_gldm_SmallDependenceHighGrayLevelEmphasis,0.03091538674672235,impurity
+Random Forest,25,660496,original_glszm_SmallAreaHighGrayLevelEmphasis,0.03281989975467018,impurity
+Random Forest,25,660496,original_gldm_DependenceNonUniformityNormalized,0.06741023822251707,impurity
+XGBoost,25,660496,original_glcm_MCC,11.933133125305176,gain
+XGBoost,25,660496,original_glszm_LowGrayLevelZoneEmphasis,6.997776985168457,gain
+XGBoost,25,660496,original_glszm_SmallAreaLowGrayLevelEmphasis,11.973289489746094,gain
+XGBoost,25,660496,original_glszm_HighGrayLevelZoneEmphasis,5.390560150146484,gain
+XGBoost,25,660496,original_glcm_Imc1,3.577173948287964,gain
+XGBoost,25,660496,original_shape_Maximum2DDiameterRow,7.898993492126465,gain
+XGBoost,25,660496,original_ngtdm_Complexity,5.406859874725342,gain
+XGBoost,25,660496,original_gldm_SmallDependenceHighGrayLevelEmphasis,6.042932987213135,gain
+XGBoost,25,660496,original_glszm_SmallAreaHighGrayLevelEmphasis,2.6977972984313965,gain
+XGBoost,25,660496,original_gldm_DependenceNonUniformityNormalized,3.667078733444214,gain
+Random Forest,26,658095,original_glcm_MCC,0.18932142688157955,impurity
+Random Forest,26,658095,original_glszm_HighGrayLevelZoneEmphasis,0.1904875402192738,impurity
+Random Forest,26,658095,original_glszm_LowGrayLevelZoneEmphasis,0.3600516183397876,impurity
+Random Forest,26,658095,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2601394145593591,impurity
+XGBoost,26,658095,original_glcm_MCC,4.757816791534424,gain
+XGBoost,26,658095,original_glszm_HighGrayLevelZoneEmphasis,4.0220818519592285,gain
+XGBoost,26,658095,original_glszm_LowGrayLevelZoneEmphasis,13.659154891967773,gain
+XGBoost,26,658095,original_glszm_SmallAreaLowGrayLevelEmphasis,8.127218246459961,gain
+Random Forest,27,644873,original_glszm_LowGrayLevelZoneEmphasis,0.10512927398343486,impurity
+Random Forest,27,644873,original_glszm_SmallAreaLowGrayLevelEmphasis,0.12084608438532808,impurity
+Random Forest,27,644873,original_glszm_HighGrayLevelZoneEmphasis,0.0886898580876597,impurity
+Random Forest,27,644873,original_glcm_MCC,0.1600821235525737,impurity
+Random Forest,27,644873,original_glcm_Imc1,0.12945971831799308,impurity
+Random Forest,27,644873,original_glszm_SmallAreaHighGrayLevelEmphasis,0.044924590787249044,impurity
+Random Forest,27,644873,original_gldm_LowGrayLevelEmphasis,0.011977455055859405,impurity
+Random Forest,27,644873,original_firstorder_Minimum,0.018645151641144102,impurity
+Random Forest,27,644873,original_shape_Maximum2DDiameterSlice,0.21933747013113813,impurity
+Random Forest,27,644873,original_shape_Elongation,0.10090827405761989,impurity
+XGBoost,27,644873,original_glszm_LowGrayLevelZoneEmphasis,5.959834575653076,gain
+XGBoost,27,644873,original_glszm_SmallAreaLowGrayLevelEmphasis,10.680155754089355,gain
+XGBoost,27,644873,original_glszm_HighGrayLevelZoneEmphasis,10.97303295135498,gain
+XGBoost,27,644873,original_glcm_MCC,7.453175067901611,gain
+XGBoost,27,644873,original_glcm_Imc1,12.688034057617188,gain
+XGBoost,27,644873,original_glszm_SmallAreaHighGrayLevelEmphasis,4.285702228546143,gain
+XGBoost,27,644873,original_gldm_LowGrayLevelEmphasis,3.0036087036132812,gain
+XGBoost,27,644873,original_firstorder_Minimum,2.671651840209961,gain
+XGBoost,27,644873,original_shape_Maximum2DDiameterSlice,8.233658790588379,gain
+XGBoost,27,644873,original_shape_Elongation,10.71609115600586,gain
+Random Forest,28,640555,original_glszm_LowGrayLevelZoneEmphasis,0.09334463851613549,impurity
+Random Forest,28,640555,original_glszm_SmallAreaLowGrayLevelEmphasis,0.14020515668816402,impurity
+Random Forest,28,640555,original_glszm_HighGrayLevelZoneEmphasis,0.16198855357915462,impurity
+Random Forest,28,640555,original_glcm_MCC,0.14232844459414074,impurity
+Random Forest,28,640555,original_glcm_Imc1,0.09396466278082279,impurity
+Random Forest,28,640555,original_glszm_SmallAreaHighGrayLevelEmphasis,0.07196732767063171,impurity
+Random Forest,28,640555,original_gldm_LowGrayLevelEmphasis,0.018247254436313885,impurity
+Random Forest,28,640555,original_shape_Maximum2DDiameterSlice,0.21753244368528968,impurity
+Random Forest,28,640555,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.03430930683697326,impurity
+Random Forest,28,640555,original_firstorder_Minimum,0.026112211212373834,impurity
+XGBoost,28,640555,original_glszm_LowGrayLevelZoneEmphasis,4.226349830627441,gain
+XGBoost,28,640555,original_glszm_SmallAreaLowGrayLevelEmphasis,8.33696174621582,gain
+XGBoost,28,640555,original_glszm_HighGrayLevelZoneEmphasis,24.08234214782715,gain
+XGBoost,28,640555,original_glcm_MCC,8.480952262878418,gain
+XGBoost,28,640555,original_glcm_Imc1,7.046302318572998,gain
+XGBoost,28,640555,original_glszm_SmallAreaHighGrayLevelEmphasis,4.0148186683654785,gain
+XGBoost,28,640555,original_gldm_LowGrayLevelEmphasis,2.459014654159546,gain
+XGBoost,28,640555,original_shape_Maximum2DDiameterSlice,9.182273864746094,gain
+XGBoost,28,640555,original_gldm_SmallDependenceLowGrayLevelEmphasis,3.451608180999756,gain
+XGBoost,28,640555,original_firstorder_Minimum,5.299672603607178,gain
+Random Forest,29,636235,original_glszm_LowGrayLevelZoneEmphasis,0.10096337285072814,impurity
+Random Forest,29,636235,original_glszm_SmallAreaLowGrayLevelEmphasis,0.13929748988905388,impurity
+Random Forest,29,636235,original_glszm_HighGrayLevelZoneEmphasis,0.1634234777987348,impurity
+Random Forest,29,636235,original_glcm_MCC,0.13608183697239187,impurity
+Random Forest,29,636235,original_glcm_Imc1,0.09423963990329433,impurity
+Random Forest,29,636235,original_glszm_SmallAreaHighGrayLevelEmphasis,0.06842437998231449,impurity
+Random Forest,29,636235,original_gldm_LowGrayLevelEmphasis,0.01830409888447844,impurity
+Random Forest,29,636235,original_shape_Maximum2DDiameterSlice,0.222266129921945,impurity
+Random Forest,29,636235,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.033965732887341324,impurity
+Random Forest,29,636235,original_firstorder_Minimum,0.023033840909717728,impurity
+XGBoost,29,636235,original_glszm_LowGrayLevelZoneEmphasis,4.0867018699646,gain
+XGBoost,29,636235,original_glszm_SmallAreaLowGrayLevelEmphasis,8.287748336791992,gain
+XGBoost,29,636235,original_glszm_HighGrayLevelZoneEmphasis,22.934457778930664,gain
+XGBoost,29,636235,original_glcm_MCC,9.43537712097168,gain
+XGBoost,29,636235,original_glcm_Imc1,6.753912448883057,gain
+XGBoost,29,636235,original_glszm_SmallAreaHighGrayLevelEmphasis,3.316848039627075,gain
+XGBoost,29,636235,original_gldm_LowGrayLevelEmphasis,2.4686458110809326,gain
+XGBoost,29,636235,original_shape_Maximum2DDiameterSlice,9.267873764038086,gain
+XGBoost,29,636235,original_gldm_SmallDependenceLowGrayLevelEmphasis,3.434515953063965,gain
+XGBoost,29,636235,original_firstorder_Minimum,4.821573734283447,gain
+Random Forest,30,635960,original_glcm_MCC,0.24669617265185584,impurity
+Random Forest,30,635960,original_glszm_HighGrayLevelZoneEmphasis,0.18647854875711323,impurity
+Random Forest,30,635960,original_glszm_LowGrayLevelZoneEmphasis,0.30963731789135196,impurity
+Random Forest,30,635960,original_glszm_SmallAreaLowGrayLevelEmphasis,0.25718796069967903,impurity
+XGBoost,30,635960,original_glcm_MCC,7.855673789978027,gain
+XGBoost,30,635960,original_glszm_HighGrayLevelZoneEmphasis,4.443356990814209,gain
+XGBoost,30,635960,original_glszm_LowGrayLevelZoneEmphasis,7.809701919555664,gain
+XGBoost,30,635960,original_glszm_SmallAreaLowGrayLevelEmphasis,9.409380912780762,gain
+Random Forest,31,665870,original_glcm_MCC,0.30517761143247024,impurity
+Random Forest,31,665870,original_glszm_LowGrayLevelZoneEmphasis,0.3530595967883088,impurity
+Random Forest,31,665870,original_glszm_SmallAreaLowGrayLevelEmphasis,0.341762791779221,impurity
+XGBoost,31,665870,original_glcm_MCC,5.373167037963867,gain
+XGBoost,31,665870,original_glszm_LowGrayLevelZoneEmphasis,12.027040481567383,gain
+XGBoost,31,665870,original_glszm_SmallAreaLowGrayLevelEmphasis,7.036087989807129,gain
+Random Forest,32,630434,original_glszm_LowGrayLevelZoneEmphasis,0.11452893270321639,impurity
+Random Forest,32,630434,original_glszm_SmallAreaLowGrayLevelEmphasis,0.14596051749653768,impurity
+Random Forest,32,630434,original_glcm_MCC,0.16100848460891917,impurity
+Random Forest,32,630434,original_glszm_HighGrayLevelZoneEmphasis,0.09302693544149922,impurity
+Random Forest,32,630434,original_glcm_Imc1,0.131156844496935,impurity
+Random Forest,32,630434,original_glszm_SmallAreaHighGrayLevelEmphasis,0.03165169312158934,impurity
+Random Forest,32,630434,original_shape_Maximum2DDiameterSlice,0.2074021798088484,impurity
+Random Forest,32,630434,original_gldm_SmallDependenceEmphasis,0.04194529264296996,impurity
+Random Forest,32,630434,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.018418853981817668,impurity
+Random Forest,32,630434,original_shape_Elongation,0.05490026569766731,impurity
+XGBoost,32,630434,original_glszm_LowGrayLevelZoneEmphasis,8.159684181213379,gain
+XGBoost,32,630434,original_glszm_SmallAreaLowGrayLevelEmphasis,9.707694053649902,gain
+XGBoost,32,630434,original_glcm_MCC,8.408663749694824,gain
+XGBoost,32,630434,original_glszm_HighGrayLevelZoneEmphasis,6.9151787757873535,gain
+XGBoost,32,630434,original_glcm_Imc1,10.881133079528809,gain
+XGBoost,32,630434,original_glszm_SmallAreaHighGrayLevelEmphasis,3.008091926574707,gain
+XGBoost,32,630434,original_shape_Maximum2DDiameterSlice,13.078713417053223,gain
+XGBoost,32,630434,original_gldm_SmallDependenceEmphasis,4.90580415725708,gain
+XGBoost,32,630434,original_gldm_SmallDependenceLowGrayLevelEmphasis,7.250075340270996,gain
+XGBoost,32,630434,original_shape_Elongation,5.982055187225342,gain
+Random Forest,33,627020,original_glcm_MCC,0.217025422856056,impurity
+Random Forest,33,627020,original_glszm_LowGrayLevelZoneEmphasis,0.04024833905359726,impurity
+Random Forest,33,627020,original_glszm_SmallAreaLowGrayLevelEmphasis,0.1020968922243371,impurity
+Random Forest,33,627020,original_glszm_HighGrayLevelZoneEmphasis,0.059375340719432027,impurity
+Random Forest,33,627020,original_glcm_Imc1,0.15351810325793316,impurity
+Random Forest,33,627020,original_glszm_SmallAreaHighGrayLevelEmphasis,0.026845345822247485,impurity
+Random Forest,33,627020,original_firstorder_Energy,0.05805242004786841,impurity
+Random Forest,33,627020,original_shape_Maximum2DDiameterSlice,0.18576136361374407,impurity
+Random Forest,33,627020,original_gldm_SmallDependenceLowGrayLevelEmphasis,0.021021153792891642,impurity
+Random Forest,33,627020,original_shape_Elongation,0.13605561861189291,impurity
+XGBoost,33,627020,original_glcm_MCC,16.23780059814453,gain
+XGBoost,33,627020,original_glszm_LowGrayLevelZoneEmphasis,3.6905651092529297,gain
+XGBoost,33,627020,original_glszm_SmallAreaLowGrayLevelEmphasis,9.992493629455566,gain
+XGBoost,33,627020,original_glszm_HighGrayLevelZoneEmphasis,5.147305011749268,gain
+XGBoost,33,627020,original_glcm_Imc1,5.902487754821777,gain
+XGBoost,33,627020,original_glszm_SmallAreaHighGrayLevelEmphasis,4.157753944396973,gain
+XGBoost,33,627020,original_firstorder_Energy,4.4779372215271,gain
+XGBoost,33,627020,original_shape_Maximum2DDiameterSlice,11.404861450195312,gain
+XGBoost,33,627020,original_gldm_SmallDependenceLowGrayLevelEmphasis,5.248682498931885,gain
+XGBoost,33,627020,original_shape_Elongation,8.681947708129883,gain
+Random Forest,34,624950,original_glcm_Imc1,0.229867854516993,impurity
+Random Forest,34,624950,original_glcm_MCC,0.24532304124255294,impurity
+Random Forest,34,624950,original_glszm_HighGrayLevelZoneEmphasis,0.11528714004641678,impurity
+Random Forest,34,624950,original_glszm_LowGrayLevelZoneEmphasis,0.20630562335790817,impurity
+Random Forest,34,624950,original_glszm_SmallAreaLowGrayLevelEmphasis,0.20321634083612924,impurity
+XGBoost,34,624950,original_glcm_Imc1,7.762940406799316,gain
+XGBoost,34,624950,original_glcm_MCC,10.139254570007324,gain
+XGBoost,34,624950,original_glszm_HighGrayLevelZoneEmphasis,2.957517623901367,gain
+XGBoost,34,624950,original_glszm_LowGrayLevelZoneEmphasis,6.466640949249268,gain
+XGBoost,34,624950,original_glszm_SmallAreaLowGrayLevelEmphasis,8.464055061340332,gain
+Random Forest,35,646187,original_glcm_MCC,0.1361343272714552,impurity
+Random Forest,35,646187,original_glszm_LowGrayLevelZoneEmphasis,0.1451156851320385,impurity
+Random Forest,35,646187,original_glszm_SmallAreaLowGrayLevelEmphasis,0.12466997854931615,impurity
+Random Forest,35,646187,original_glszm_HighGrayLevelZoneEmphasis,0.10347006092541998,impurity
+Random Forest,35,646187,original_glcm_Imc1,0.1224509451435103,impurity
+Random Forest,35,646187,original_glszm_SmallAreaHighGrayLevelEmphasis,0.09355635514528407,impurity
+Random Forest,35,646187,original_gldm_LowGrayLevelEmphasis,0.01932874152991248,impurity
+Random Forest,35,646187,original_glrlm_LongRunHighGrayLevelEmphasis,0.011897765927053858,impurity
+Random Forest,35,646187,original_firstorder_Energy,0.04350204988932456,impurity
+Random Forest,35,646187,original_shape_Maximum2DDiameterSlice,0.19987409048668492,impurity
+XGBoost,35,646187,original_glcm_MCC,12.095555305480957,gain
+XGBoost,35,646187,original_glszm_LowGrayLevelZoneEmphasis,15.506840705871582,gain
+XGBoost,35,646187,original_glszm_SmallAreaLowGrayLevelEmphasis,10.204833984375,gain
+XGBoost,35,646187,original_glszm_HighGrayLevelZoneEmphasis,5.772900581359863,gain
+XGBoost,35,646187,original_glcm_Imc1,5.407763481140137,gain
+XGBoost,35,646187,original_glszm_SmallAreaHighGrayLevelEmphasis,5.315568447113037,gain
+XGBoost,35,646187,original_gldm_LowGrayLevelEmphasis,1.392457127571106,gain
+XGBoost,35,646187,original_glrlm_LongRunHighGrayLevelEmphasis,2.9605696201324463,gain
+XGBoost,35,646187,original_firstorder_Energy,3.8989384174346924,gain
+XGBoost,35,646187,original_shape_Maximum2DDiameterSlice,8.488323211669922,gain
+Random Forest,36,645028,original_glcm_MCC,0.20640527247235335,impurity
+Random Forest,36,645028,original_glszm_HighGrayLevelZoneEmphasis,0.19719786991438837,impurity
+Random Forest,36,645028,original_glszm_LowGrayLevelZoneEmphasis,0.34719975439471645,impurity
+Random Forest,36,645028,original_glszm_SmallAreaLowGrayLevelEmphasis,0.24919710321854188,impurity
+XGBoost,36,645028,original_glcm_MCC,5.0146260261535645,gain
+XGBoost,36,645028,original_glszm_HighGrayLevelZoneEmphasis,3.739039182662964,gain
+XGBoost,36,645028,original_glszm_LowGrayLevelZoneEmphasis,13.097204208374023,gain
+XGBoost,36,645028,original_glszm_SmallAreaLowGrayLevelEmphasis,7.598139762878418,gain
+Random Forest,37,647623,original_glcm_MCC,0.17994738026414195,impurity
+Random Forest,37,647623,original_glszm_HighGrayLevelZoneEmphasis,0.2042867905969574,impurity
+Random Forest,37,647623,original_glszm_LowGrayLevelZoneEmphasis,0.3391273243521862,impurity
+Random Forest,37,647623,original_glszm_SmallAreaLowGrayLevelEmphasis,0.27663850478671453,impurity
+XGBoost,37,647623,original_glcm_MCC,5.467951774597168,gain
+XGBoost,37,647623,original_glszm_HighGrayLevelZoneEmphasis,4.001570224761963,gain
+XGBoost,37,647623,original_glszm_LowGrayLevelZoneEmphasis,11.892045974731445,gain
+XGBoost,37,647623,original_glszm_SmallAreaLowGrayLevelEmphasis,7.504605770111084,gain
+Random Forest,38,619781,original_glcm_MCC,0.3054462283277896,impurity
+Random Forest,38,619781,original_glszm_LowGrayLevelZoneEmphasis,0.35774933835503353,impurity
+Random Forest,38,619781,original_glszm_SmallAreaLowGrayLevelEmphasis,0.33680443331717697,impurity
+XGBoost,38,619781,original_glcm_MCC,4.9030537605285645,gain
+XGBoost,38,619781,original_glszm_LowGrayLevelZoneEmphasis,11.278348922729492,gain
+XGBoost,38,619781,original_glszm_SmallAreaLowGrayLevelEmphasis,7.459522247314453,gain
+Random Forest,39,621897,original_glcm_MCC,0.18151606161731448,impurity
+Random Forest,39,621897,original_glszm_HighGrayLevelZoneEmphasis,0.20739416751574602,impurity
+Random Forest,39,621897,original_glszm_LowGrayLevelZoneEmphasis,0.3590745519742357,impurity
+Random Forest,39,621897,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2520152188927038,impurity
+XGBoost,39,621897,original_glcm_MCC,5.138982772827148,gain
+XGBoost,39,621897,original_glszm_HighGrayLevelZoneEmphasis,3.367201089859009,gain
+XGBoost,39,621897,original_glszm_LowGrayLevelZoneEmphasis,15.222212791442871,gain
+XGBoost,39,621897,original_glszm_SmallAreaLowGrayLevelEmphasis,7.86102819442749,gain
+Random Forest,40,630633,original_glcm_MCC,0.19223714703226502,impurity
+Random Forest,40,630633,original_glszm_HighGrayLevelZoneEmphasis,0.19837620316146126,impurity
+Random Forest,40,630633,original_glszm_LowGrayLevelZoneEmphasis,0.35320279386834175,impurity
+Random Forest,40,630633,original_glszm_SmallAreaLowGrayLevelEmphasis,0.25618385593793186,impurity
+XGBoost,40,630633,original_glcm_MCC,4.901971340179443,gain
+XGBoost,40,630633,original_glszm_HighGrayLevelZoneEmphasis,3.7995495796203613,gain
+XGBoost,40,630633,original_glszm_LowGrayLevelZoneEmphasis,12.706655502319336,gain
+XGBoost,40,630633,original_glszm_SmallAreaLowGrayLevelEmphasis,8.054156303405762,gain
+Random Forest,41,656825,original_glcm_MCC,0.20965901305549398,impurity
+Random Forest,41,656825,original_glszm_HighGrayLevelZoneEmphasis,0.1957769035589463,impurity
+Random Forest,41,656825,original_glszm_LowGrayLevelZoneEmphasis,0.32820105702116864,impurity
+Random Forest,41,656825,original_glszm_SmallAreaLowGrayLevelEmphasis,0.26636302636439113,impurity
+XGBoost,41,656825,original_glcm_MCC,5.651356220245361,gain
+XGBoost,41,656825,original_glszm_HighGrayLevelZoneEmphasis,3.709975481033325,gain
+XGBoost,41,656825,original_glszm_LowGrayLevelZoneEmphasis,13.453958511352539,gain
+XGBoost,41,656825,original_glszm_SmallAreaLowGrayLevelEmphasis,7.241361141204834,gain
+Random Forest,42,657393,original_glcm_MCC,0.1919320476331233,impurity
+Random Forest,42,657393,original_glszm_HighGrayLevelZoneEmphasis,0.19004574187072926,impurity
+Random Forest,42,657393,original_glszm_LowGrayLevelZoneEmphasis,0.34992056254162895,impurity
+Random Forest,42,657393,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2681016479545186,impurity
+XGBoost,42,657393,original_glcm_MCC,5.269062042236328,gain
+XGBoost,42,657393,original_glszm_HighGrayLevelZoneEmphasis,3.7823243141174316,gain
+XGBoost,42,657393,original_glszm_LowGrayLevelZoneEmphasis,13.888585090637207,gain
+XGBoost,42,657393,original_glszm_SmallAreaLowGrayLevelEmphasis,8.116686820983887,gain
+Random Forest,43,660359,original_glcm_MCC,0.22401035909250144,impurity
+Random Forest,43,660359,original_glszm_HighGrayLevelZoneEmphasis,0.2296173595615139,impurity
+Random Forest,43,660359,original_glszm_LowGrayLevelZoneEmphasis,0.23004084082388646,impurity
+Random Forest,43,660359,original_glszm_SmallAreaHighGrayLevelEmphasis,0.09710091251451619,impurity
+Random Forest,43,660359,original_glszm_SmallAreaLowGrayLevelEmphasis,0.219230528007582,impurity
+XGBoost,43,660359,original_glcm_MCC,5.287086486816406,gain
+XGBoost,43,660359,original_glszm_HighGrayLevelZoneEmphasis,12.413390159606934,gain
+XGBoost,43,660359,original_glszm_LowGrayLevelZoneEmphasis,5.180670261383057,gain
+XGBoost,43,660359,original_glszm_SmallAreaHighGrayLevelEmphasis,3.5829169750213623,gain
+XGBoost,43,660359,original_glszm_SmallAreaLowGrayLevelEmphasis,8.272130012512207,gain
+Random Forest,44,405570,original_glcm_MCC,0.25654875553056816,impurity
+Random Forest,44,405570,original_glszm_HighGrayLevelZoneEmphasis,0.2215273351646083,impurity
+Random Forest,44,405570,original_glszm_LowGrayLevelZoneEmphasis,0.28797797485692295,impurity
+Random Forest,44,405570,original_glszm_SmallAreaLowGrayLevelEmphasis,0.23394593444790057,impurity
+XGBoost,44,405570,original_glcm_MCC,4.356406211853027,gain
+XGBoost,44,405570,original_glszm_HighGrayLevelZoneEmphasis,4.151977062225342,gain
+XGBoost,44,405570,original_glszm_LowGrayLevelZoneEmphasis,9.950569152832031,gain
+XGBoost,44,405570,original_glszm_SmallAreaLowGrayLevelEmphasis,8.600289344787598,gain
+Random Forest,45,660818,original_glszm_HighGrayLevelZoneEmphasis,0.2749229498865152,impurity
+Random Forest,45,660818,original_glszm_LowGrayLevelZoneEmphasis,0.3978745147031233,impurity
+Random Forest,45,660818,original_glszm_SmallAreaLowGrayLevelEmphasis,0.3272025354103615,impurity
+XGBoost,45,660818,original_glszm_HighGrayLevelZoneEmphasis,4.629133701324463,gain
+XGBoost,45,660818,original_glszm_LowGrayLevelZoneEmphasis,9.881564140319824,gain
+XGBoost,45,660818,original_glszm_SmallAreaLowGrayLevelEmphasis,4.540470123291016,gain
+Random Forest,46,649234,original_glcm_MCC,0.19586245029703878,impurity
+Random Forest,46,649234,original_glszm_HighGrayLevelZoneEmphasis,0.19039731297448698,impurity
+Random Forest,46,649234,original_glszm_LowGrayLevelZoneEmphasis,0.3163724278353292,impurity
+Random Forest,46,649234,original_glszm_SmallAreaHighGrayLevelEmphasis,0.09988680507032151,impurity
+Random Forest,46,649234,original_glszm_SmallAreaLowGrayLevelEmphasis,0.19748100382282344,impurity
+XGBoost,46,649234,original_glcm_MCC,5.248779296875,gain
+XGBoost,46,649234,original_glszm_HighGrayLevelZoneEmphasis,7.895892143249512,gain
+XGBoost,46,649234,original_glszm_LowGrayLevelZoneEmphasis,10.605213165283203,gain
+XGBoost,46,649234,original_glszm_SmallAreaHighGrayLevelEmphasis,3.9633753299713135,gain
+XGBoost,46,649234,original_glszm_SmallAreaLowGrayLevelEmphasis,6.1274638175964355,gain
+Random Forest,47,635020,original_glcm_MCC,0.18959775215046204,impurity
+Random Forest,47,635020,original_glszm_HighGrayLevelZoneEmphasis,0.20234013937645579,impurity
+Random Forest,47,635020,original_glszm_LowGrayLevelZoneEmphasis,0.35097552962952744,impurity
+Random Forest,47,635020,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2570865788435547,impurity
+XGBoost,47,635020,original_glcm_MCC,4.753823280334473,gain
+XGBoost,47,635020,original_glszm_HighGrayLevelZoneEmphasis,4.0507941246032715,gain
+XGBoost,47,635020,original_glszm_LowGrayLevelZoneEmphasis,12.99893856048584,gain
+XGBoost,47,635020,original_glszm_SmallAreaLowGrayLevelEmphasis,8.301643371582031,gain
+Random Forest,48,656758,original_glcm_Imc1,0.1721273727310864,impurity
+Random Forest,48,656758,original_glcm_MCC,0.1885684684246918,impurity
+Random Forest,48,656758,original_glszm_HighGrayLevelZoneEmphasis,0.17332451131715615,impurity
+Random Forest,48,656758,original_glszm_LowGrayLevelZoneEmphasis,0.2629557022761168,impurity
+Random Forest,48,656758,original_glszm_SmallAreaLowGrayLevelEmphasis,0.2030239452509489,impurity
+XGBoost,48,656758,original_glcm_Imc1,6.492936134338379,gain
+XGBoost,48,656758,original_glcm_MCC,5.66168212890625,gain
+XGBoost,48,656758,original_glszm_HighGrayLevelZoneEmphasis,3.4067492485046387,gain
+XGBoost,48,656758,original_glszm_LowGrayLevelZoneEmphasis,11.641741752624512,gain
+XGBoost,48,656758,original_glszm_SmallAreaLowGrayLevelEmphasis,9.043899536132812,gain
